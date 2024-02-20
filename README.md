@@ -1,8 +1,8 @@
 # PokeAPI
 
-##Contactos
+## Contactos
 Carlos Daniel Camilo Aguilar - camilodani065@gmail.com
-Ariel Rodolfo Zarmudio Romero
+Ariel Rodolfo Zarmudio Romero- zamromxd@gmail.com 
 
 ## Licencia
 PokeAPI es distribuido bajo la licencia MIT.
