@@ -18,21 +18,6 @@ Para empezar a utilizar PokeAPI, no necesitas registrarte ni obtener una clave A
 
 GET https://pokeapi.co/api/v2/pokemon/pikachu
 
-
-## Documentación
-
-Para una guía completa sobre cómo utilizar PokeAPI, incluyendo todos los endpoints disponibles y cómo realizar solicitudes, visita nuestra documentación oficial en [https://pokeapi.co/docs/v2](https://pokeapi.co/docs/v2).
-
-## Contribuir
-
-PokeAPI es un proyecto de código abierto y agradecemos cualquier contribución de la comunidad. Si estás interesado en contribuir, por favor revisa nuestra guía de contribución en nuestro repositorio de GitHub.
-
 ## Licencia
 
-PokeAPI es distribuido bajo la licencia MIT, lo que significa que puedes usarlo libremente en tus proyectos personales o comerciales.
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en nuestro repositorio de GitHub o contactarnos a través de [email de contacto].
-
-¡Esperamos que disfrutes usando PokeAPI para tus proyectos de Pokémon!
+PokeAPI es distribuido bajo la licencia MIT.
