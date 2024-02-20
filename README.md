@@ -18,7 +18,7 @@ PokeAPI es una API RESTful gratuita y de código abierto que proporciona datos p
 - **Evoluciones:** Información detallada sobre las condiciones de evolución de los Pokémon.
 - **Acceso fácil y rápido:** Diseñada con el objetivo de ser fácil de usar y con respuestas rápidas para mejorar la experiencia de desarrollo.
 
-##Objetivos
+## Objetivos
 - Identificar desbalances de la distribución de tipos del juego.
 
 ## Cómo empezar
