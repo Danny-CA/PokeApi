@@ -13,7 +13,7 @@ PokeAPI es una API RESTful gratuita y de código abierto que proporciona datos p
 
 ## Cómo empezar
 
-Para empezar a utilizar PokeAPI, no necesitas registrarte ni obtener una clave API. Simplemente puedes hacer solicitudes HTTP a los endpoints correspondientes. Aquí tienes un ejemplo para obtener información sobre Pikachu:
+Para empezar a utilizar PokeAPI, no necesitas registrarte ni obtener una clave API. Simplemente puedes hacer solicitudes HTTP a los endpoints correspondientes. Aquí tenemos un ejemplo para obtener información sobre Pikachu:
 
 
 GET https://pokeapi.co/api/v2/pokemon/pikachu
